@@ -1,0 +1,15 @@
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\bin\Debug\net7.0\EX27.exe
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\bin\Debug\net7.0\EX27.deps.json
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\bin\Debug\net7.0\EX27.runtimeconfig.json
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\bin\Debug\net7.0\EX27.dll
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\bin\Debug\net7.0\EX27.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.csproj.AssemblyReference.cache
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.AssemblyInfoInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.AssemblyInfo.cs
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.csproj.CoreCompileInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.dll
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\refint\EX27.dll
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\EX27.genruntimeconfig.cache
+C:\Users\MS.Bazhina\Desktop\задания\Функции\HW4\EX27\obj\Debug\net7.0\ref\EX27.dll
